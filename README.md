@@ -1,7 +1,8 @@
 # hover시 3d로 변하는 이미지 레이어
 
 ## 1. preview
-- 중요 속성 : hover, position, opacity, tranform
+
+### hover, position, opacity, tranform 사용
 
 <img src="https://j.gifs.com/vlB9Pn.gif" />
 
